@@ -2,10 +2,9 @@
 Дашборд «Анализ зависимостей показателей сна от здоровья и образа жизни человека» <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/NNin4ik-Health_sleep_dashboard-Health_sleep_dashboard)
-![GitHub top language](https://img.shields.io/github/languages/top/OkulusDev/Oxygen)
-![GitHub](https://img.shields.io/github/license/OkulusDev/Oxygen)
-![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
-![GitHub issues](https://img.shields.io/github/issues/OkulusDev/Oxygen)
+![GitHub top language](https://img.shields.io/github/languages/top/NNin4ik/Health_sleep_dashboard)
+![GitHub Repo stars](https://img.shields.io/github/stars/NNin4ik/Health_sleep_dashboard)
+![GitHub issues](https://img.shields.io/github/issues/NNin4ik/Health_sleep_dashboard)
 
 ![Logotype](./assets/night2.png)
 
