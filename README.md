@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/Oxygen)
 
-![Logotype](./docs/wall.jpg)
+![Logotype](./assets/night2.png)
 
 <!--Установка-->
 ## Установка (Linux)
@@ -37,7 +37,8 @@
 
 <!--Поддержка-->
 ## Поддержка
-Авторы проекта: [Нина](https://github.com/NNin4ik), [Тимур](https://github.com/inte11ectua1)
+Авторы проекта: [Нина](https://github.com/NNin4ik), [Тимур](https://github.com/inte11ectua1). 
+
 Если у вас возникли сложности или вопросы по использованию пакета, создайте 
 [обсуждение](https://github.com/NNin4ik/Health_sleep_dashboard/issues/new/choose) в данном репозитории.
 
