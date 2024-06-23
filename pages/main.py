@@ -63,7 +63,7 @@ layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            html.P(html.A("Реализацию готового проекта можно посмотреть здесь", href="#", className="text-decoration-underline fs-5"))
+            html.P(html.A("Реализацию готового проекта можно посмотреть здесь", href="https://github.com/NNin4ik/Health_sleep_dashboard", className="text-decoration-underline fs-5"))
         ], width=8),
 
         dbc.Col([
